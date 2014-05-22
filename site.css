@@ -27,8 +27,9 @@ h3 {
   font-style:italic;  
 }
 #main {
-  width:600px;
+  max-width:600px;
   margin:auto;
+  overflow:hidden;
 }
 a, a:visited, a:hover, a:active, a:link {
     color:inherit;
